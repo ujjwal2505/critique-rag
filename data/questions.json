@@ -1,0 +1,30 @@
+[
+  {
+    "q": "How long does the Pro plan retain raw event data?",
+    "type": "answerable"
+  },
+  {
+    "q": "Which single sign-on identity providers does Northwind Analytics support?",
+    "type": "answerable"
+  },
+  {
+    "q": "What does the Pro plan cost per month and how many events does it include?",
+    "type": "answerable"
+  },
+  {
+    "q": "Which data warehouses can raw events be exported to?",
+    "type": "answerable"
+  },
+  {
+    "q": "What is the Enterprise uptime SLA and what service credits apply if it is missed?",
+    "type": "answerable"
+  },
+  {
+    "q": "What is Northwind Software's annual revenue?",
+    "type": "unanswerable"
+  },
+  {
+    "q": "What is Northwind Analytics' refund policy if I cancel mid-month?",
+    "type": "unanswerable"
+  }
+]
